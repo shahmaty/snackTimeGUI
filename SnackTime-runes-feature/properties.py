@@ -1,0 +1,1 @@
+riotClientVersion = "10.9.1"
